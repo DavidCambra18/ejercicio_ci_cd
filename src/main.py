@@ -6,3 +6,9 @@ def elevar(base, exp):
     :param exp: Descripción
     """
     return base**exp
+
+def to_upper(text):
+    return text.upper()
+
+def to_lower(text):
+    return text.lower()
